@@ -1,1 +1,1 @@
-type def
+Struct def
